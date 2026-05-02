@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.JalSanchayTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/brand_secondary</item>
+        <item name="android:windowBackground">@color/brand_bg</item>
+        <item name="android:statusBarColor">@color/brand_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="NaturalCard" parent="">
+        <item name="android:background">@drawable/card_bg</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+</resources>
