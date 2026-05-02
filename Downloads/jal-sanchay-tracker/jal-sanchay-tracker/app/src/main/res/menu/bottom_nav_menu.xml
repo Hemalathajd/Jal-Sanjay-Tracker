@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/entryFragment"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Entry" />
+
+    <item
+        android:id="@+id/analyticsFragment"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Analytics" />
+
+    <item
+        android:id="@+id/setupFragment"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Setup" />
+
+</menu>
